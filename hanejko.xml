@@ -464,6 +464,7 @@
 <RELATION ID="1058" RelationName="1:n" Kind="2" SrcTable="1000" DestTable="1008" FKFields="idklienta=klienci_idklienta\n" FKFieldsComments="\n" relDirection="2" MidOffset="0" OptionalStart="0" OptionalEnd="0" CaptionOffsetX="0" CaptionOffsetY="0" StartIntervalOffsetX="0" StartIntervalOffsetY="0" EndIntervalOffsetX="0" EndIntervalOffsetY="0" CreateRefDef="1" Invisible="0" RefDef="Matching=0\nOnDelete=3\nOnUpdate=3\n" Comments="" FKRefDefIndex_Obj_id="1060" Splitted="0" IsLinkedObject="0" IDLinkedModel="-1" Obj_id_Linked="-1" OrderPos="10" />
 </RELATIONS>
 <NOTES>
+<NOTE ID="1061" NoteName="Note_01" XPos="456" YPos="278" NoteText="klienci: seanse - relacja  n:m\n" IsLinkedObject="0" IDLinkedModel="-1" Obj_id_Linked="-1" OrderPos="11" />
 </NOTES>
 <IMAGES>
 </IMAGES>
